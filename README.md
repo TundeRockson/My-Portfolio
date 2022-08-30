@@ -1,5 +1,5 @@
 
-# Akintunde Rockson's Portfolio
+# Akintunde Rockson
 A few of the Data Science projects I've been working on
 
 # [Project 1: Predicting Soccer Players' Transfer Value](https://github.com/TundeRockson/My-Portfolio/blob/main/Soccer%20Proj/Soccer%20Project.ipynb)
