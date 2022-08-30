@@ -20,4 +20,5 @@ In this project, I applied data wrangling and exploratory data analysis skills t
 
 # [Project 4: Statistical Analysis of a Survey with SAS](https://github.com/TundeRockson/My-Portfolio/blob/main/SAS%20Survey%20Project.pdf)
 In this project, I will try to determine whether factors such as race, shoe size, height and gender contribute to a person’s preferred sport, as well as finding out if there is a relationship between a person’s height and his/her shoe size. 
+![](images/Screen%20Shot%202022-08-29%20at%2011.46.18%20PM.png)
 #### Language(s): SAS
