@@ -1,6 +1,6 @@
 
 # Akintunde Rockson
-A few of the Data Science projects I've been working on (Click on title to see full project).
+A few of the Data Science projects I've been working on. (click on title to see full project)
 
 # [Project 1: Predicting Soccer Players' Transfer Value](https://github.com/TundeRockson/My-Portfolio/blob/main/Soccer%20Proj/Soccer%20Project.ipynb)
 This project focuses on predicting soccer players' transfer values to determine which players are overvalued, undervalued, or appropriately valued. To do this, data was scraped, cleaned, and analyzed from a soccer video game's dataset to create a table suitable for building multiple regression models to find the best predictor for what a player's value should be.
