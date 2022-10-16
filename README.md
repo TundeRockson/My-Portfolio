@@ -21,3 +21,5 @@ This project utilizes methods such as data wrangling and exploratory data analys
 In this project, I'll explore whether a person's preferred sport is influenced by aspects like race, shoe size, height, and gender. I'll also look into whether a person's height and shoe size are related.
 ![](images/Screen%20Shot%202022-08-29%20at%2011.46.18%20PM.png)
 #### Language(s): SAS
+
+# [Project 4: Visualizing the Employees database](https://public.tableau.com/app/profile/tunde.rockson/viz/CombiningSQLandTableau_16648290057500/Dashboard1?publish=yes)
