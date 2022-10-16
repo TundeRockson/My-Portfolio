@@ -23,5 +23,5 @@ In this project, I'll explore whether a person's preferred sport is influenced b
 #### Language(s): SAS
 
 # [Project 4: Visualizing the Employees database](https://public.tableau.com/app/profile/tunde.rockson/viz/CombiningSQLandTableau_16648290057500/Dashboard1?publish=yes)
-This combines SQL and Tableau to . [Here](https://github.com/TundeRockson/My-Portfolio/blob/main/Combining%20SQL%20and%20Tableau.sql) is the code in SQL that was exported into a CSV file which was used in Tableau
+This mini project combines SQL and Tableau to produce interactive data visualizations that can provide various insights on the public [mySQL employees database](https://github.com/datacharmer/test_db) as can be seen from the link in the title. [Here](https://github.com/TundeRockson/My-Portfolio/blob/main/Combining%20SQL%20and%20Tableau.sql) is the code in SQL that was exported into a CSV file which was used in Tableau
 ![](images/Screen%20Shot%202022-10-16%20at%2012.34.12%20PM.png)
