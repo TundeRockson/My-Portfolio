@@ -8,7 +8,7 @@ This project focuses on predicting soccer players' transfer values to determine 
 #### Language(s): Python
 
 # [Project 2: Analyzing the Top 50 Solar Flares](https://github.com/TundeRockson/My-Portfolio/blob/main/Analyzing%20Top%2050%20Solar%20Flares/Top%2050%20Solar%20Flares.ipynb)
-This is a project that involves web scraping information from the NASA and SpaceWeather websites about the top 50 solar flares ever observed, and combining data from the two sources sources in order to integrate and investigated both datasets to accurately replicate information about these happenings.
+This is a project that involves web scraping information from the NASA and SpaceWeather websites about the top 50 solar flares ever observed, and combining data from the two sources in order to integrate and investigate both datasets while also trying to accurately replicate information about these happenings.
 ![](images/Screen%20Shot%202022-08-29%20at%204.18.02%20PM.png)
 #### Language(s): Python, SQL
 
